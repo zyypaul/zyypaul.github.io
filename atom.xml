@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yiyuan&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-01-06T04:30:58.220Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Yiyuan Zhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/01/05/Hello-World/"/>
+    <id>http://yoursite.com/2017/01/05/Hello-World/</id>
+    <published>2017-01-05T22:51:47.443Z</published>
+    <updated>2017-01-06T04:30:58.220Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my personal webpage! This is my very first post. This is a text page to figure out how hexo and cmd markdown works.</p>
+<h2 id="Post-date-01-05-2017"><a href="#Post-date-01-05-2017" class="headerlink" title="Post date: 01/05/2017"></a>Post date: 01/05/2017</h2><h3 id="Why-I-establish-my-personal-website"><a href="#Why-I-establish-my-personal-website" class="headerlink" title="Why I establish my personal website"></a>Why I establish my personal website</h3><p>To let every one knows me more and exhibit my personal experience</p>
+<h3 id="What-I-am-going-to-show-on-my-personal-website"><a href="#What-I-am-going-to-show-on-my-personal-website" class="headerlink" title="What I am going to show on my personal website"></a>What I am going to show on my personal website</h3><ul>
+<li>food i make</li>
+<li>my projects</li>
+<li>my daily life</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my personal webpage! This is my very first post. This is a text page to figure out how hexo and cmd markdown works.&lt;/p&gt;
+&lt;h2 id
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
